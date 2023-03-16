@@ -1,0 +1,5 @@
+﻿  easyTasks.cpp
+C:\Users\user\Documents\GitHub\MPI\MPI\easyTasks.cpp(12,13): warning C4101: status: неиспользованная локальная переменная
+C:\Users\user\Documents\GitHub\MPI\MPI\easyTasks.cpp(11,31): warning C4101: message: неиспользованная локальная переменная
+C:\Users\user\Documents\GitHub\MPI\MPI\easyTasks.cpp(38,31): warning C4101: message: неиспользованная локальная переменная
+  MPI.vcxproj -> C:\Users\user\Documents\GitHub\MPI\x64\Debug\MPI.exe
