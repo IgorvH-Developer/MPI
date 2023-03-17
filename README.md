@@ -8,6 +8,7 @@
 
 Ниже представлены результаты вычисления значений на сегменте [0, 10] с шагом δ = 0.4:
 
-![image](https://user-images.githubusercontent.com/58008126/225900856-bede2ea2-a49b-480d-8f72-bdf9aedecd6e.png)
-![image](https://user-images.githubusercontent.com/58008126/225900902-e3d345d0-d299-4e82-af8b-7c65d9fdd398.png)
+![image](https://user-images.githubusercontent.com/58008126/225901074-72a49008-29c8-44ae-a4e4-0b0dfdd88edc.png)
+![image](https://user-images.githubusercontent.com/58008126/225901115-1f085fd3-f050-4b8f-92a7-dfd1f631cd52.png)
+
 
