@@ -32,3 +32,31 @@
 
 ![image](https://user-images.githubusercontent.com/58008126/226434803-d35141ec-1f50-4cf5-8ce7-be24ee9ef4d6.png)
 
+### Рассмотрим сегмент [0, 10] с шагом δ = 0.1. Посмотрим на время выполнения программы с разным количеством процессов:
+
+1) 8 процессов
+
+![image](https://user-images.githubusercontent.com/58008126/226443701-f54f567f-d3d6-4084-a513-caaee5139e2b.png)
+
+2) 4 процесса 
+
+![image](https://user-images.githubusercontent.com/58008126/226443943-8b70ae38-3146-4f4a-831f-a358a354c294.png)
+
+3) 2 процесса
+
+![image](https://user-images.githubusercontent.com/58008126/226444062-71520ee2-85ef-471d-a994-1c0374e5a746.png)
+
+### Рассмотрим сегмент [0, 100] с шагом δ = 0.001. Посмотрим на время выполнения программы с разным количеством процессов:
+
+1) 8 процессов
+
+![image](https://user-images.githubusercontent.com/58008126/226444630-289e6f07-62c5-413f-a692-023671e030f3.png)
+
+2) 4 процесса
+
+![image](https://user-images.githubusercontent.com/58008126/226444481-3271450b-8684-4dbb-9cf9-b2e151b65f06.png)
+
+3) 2 процесса
+
+![image](https://user-images.githubusercontent.com/58008126/226444240-86bfd5a2-74b3-4e23-9b7b-f529e9cf0fd9.png)
+
