@@ -22,16 +22,13 @@
 
 1) 8 процессов:
 
-![image](https://user-images.githubusercontent.com/58008126/226431449-64066786-8cac-4126-975c-4e0fc72df828.png)
-![image](https://user-images.githubusercontent.com/58008126/226431513-23007ea1-3829-4ec2-9a20-238aa06161cb.png)
+![image](https://user-images.githubusercontent.com/58008126/226442245-bed3fbae-7d68-4aea-b713-9373a53e08dc.png)
 
 2) 4 процесса
 
-![image](https://user-images.githubusercontent.com/58008126/226432398-8c05697f-b327-400a-aef8-b8f52f8e517d.png)
-![image](https://user-images.githubusercontent.com/58008126/226432458-7df5b05d-7d24-4a75-b071-7d05e6b942e8.png)
+![image](https://user-images.githubusercontent.com/58008126/226435846-17804048-1d07-4824-a24b-f08664779152.png)
 
 3) 2 процесса
 
-![image](https://user-images.githubusercontent.com/58008126/226432618-8db4fd95-a4f7-4b89-b501-f80a8c6cf643.png)
-![image](https://user-images.githubusercontent.com/58008126/226434440-ca018d3c-dd04-43ce-bd66-703cf1c28394.png)
+![image](https://user-images.githubusercontent.com/58008126/226434803-d35141ec-1f50-4cf5-8ce7-be24ee9ef4d6.png)
 
